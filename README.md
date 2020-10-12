@@ -1,3 +1,3 @@
 # littleTest
 
-little projects por remember escentials and practice new concepts
+little projects to remember escentials and practice new concepts
